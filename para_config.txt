@@ -1,4 +1,4 @@
-;example:
+2example:
 ;key = keyvalue(4bytes)
 language = cn
 timezone = 0
